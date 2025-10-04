@@ -71,7 +71,7 @@ function App() {
 
   return (
     <div className="app-container">
-      <h1 className="app-title">AI Code Generator</h1>
+      <h1 className="app-title">CsGpt</h1>
 
       <textarea
         className="prompt-input"
